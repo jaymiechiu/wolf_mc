@@ -37,7 +37,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6751b7d19d3a29f71b61bd0a8cef6265",
-    "url": "/wolf_mc/static/media/step_1.6751b7d1.mp3"
+    "url": "/wolf_mc/static/media/step_1.mp3"
   },
   {
     "revision": "b4e6486eb6ed9002de20c439f6802ad2",
