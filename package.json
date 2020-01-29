@@ -1,8 +1,8 @@
 {
-  "name": "wolf_judge",
+  "name": "wolf_mc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaeyolin.github.io/wolf_judge/",
+  "homepage": "https://jaymiechiu.github.io/wolf_mc/",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
