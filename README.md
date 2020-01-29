@@ -1,4 +1,4 @@
-# 狼人殺自動法官
+# 狼人殺自動MC
 
 你約了一些朋友想玩狼人殺嗎？ 一個人要去當法官是不是又人不夠開局了.
 
@@ -6,7 +6,7 @@
 
 ## 網頁
 
-- [請點我](https://jaeyolin.github.io/wolf_judge/)
+- [請點我](https://jaymiechiu.github.io/wolf_mc/)
 
 ## 功能特色
 
