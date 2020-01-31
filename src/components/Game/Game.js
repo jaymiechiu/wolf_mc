@@ -25,6 +25,7 @@ import Switch from '@material-ui/core/Switch';
 import { useTranslation } from "react-i18next";
 
 import {
+  WOLFOFWOLF,
   WOLF,
   PREDICTOR,
   WITCH,
