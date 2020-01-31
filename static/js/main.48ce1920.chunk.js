@@ -26,9 +26,7 @@
                                              
                                              l.a.createElement("div",null,l.a.createElement(F.a,{className:a.formControl},l.a.createElement(K.a,{htmlFor:"age-native-simple"},t("wolf_number")),
                                                                                                             l.a.createElement(P.a,{native:!0,value:o,onChange:function(e){s(1*e.target.value)}},l.a.createElement("option",{value:1},"1"),l.a.createElement("option",{value:2},"2"),l.a.createElement("option",{value:3},"3"),l.a.createElement("option",{value:4},"4")))),
-                                             l.a.createElement("div",null,l.a.createElement(F.a,{className:a.formControl},l.a.createElement(K.a,{htmlFor:"age-native-simple"},t("wolfofwolf")),
-                                                                                            
-l.a.createElement(P.a,{native:!0,value:ow,onChange:function(e){sw("true"===e.target.value)}},l.a.createElement("option",{value:!0},t("yes")),l.a.createElement("option",{value:!1},t("no"))))),
+                                         
                                              
                                              l.a.createElement("div",null,l.a.createElement(F.a,{className:a.formControl},l.a.createElement(K.a,{htmlFor:"age-native-simple"},t("is_kill_kind")),
                                                                                             
