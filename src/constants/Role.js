@@ -1,9 +1,3 @@
-export const WOLFOFWOLF = {
-  key: 'wolfofwolf',
-  isGood: false,
-  isGod: false,
-  src: 'wolf.jpg',
-};
 
 export const WOLF = {
   key: 'wolf',
