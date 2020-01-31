@@ -16,7 +16,7 @@
                  U={key:"villager",isGood:!0,isGod:!1,src:"villager.jpg"},
                  G=t(186),F=t(184),K=t(205),P=t(71),I=Object(u.a)(function(e){return{root:{display:"flex"},group:{margin:e.spacing(1,0)},formControl:{margin:e.spacing(1),minWidth:200},selectEmpty:{marginTop:e.spacing(2)}}}),A=function(e){var a=I(),t=Object(c.b)().t,i=e.playerNumber,r=e.setPlayerNumber,
                      o=e.wolfNumber,s=e.setWolfNumber,
-                     ow=e.isUseWolfOfWolf,sw=e.setIsUseWolfOfWolf,
+                     
                      d=e.isUsePredictor,u=e.setIsUsePredictor,m=e.isUseWitch,p=e.setIsUseWitch,
                      E=e.isUseHunter,f=e.setIsUseHunter,g=e.handleStart,b=e.isKillKind,h=e.setIsKillKind,y=e.isUseKnight,k=e.setIsUseKnight,
                      _=e.isUseidiot,x=e.setIsUseidiot,j=e.isMirror,w=e.setIsMirror;
