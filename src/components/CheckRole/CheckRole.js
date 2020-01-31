@@ -14,6 +14,7 @@ import DialogTitle from '@material-ui/core/DialogTitle';
 import Button from '@material-ui/core/Button';
 import Divider from '@material-ui/core/Divider';
 
+import wolfofwolf from '../../static/images/wolfofwolf.jpg';
 import wolf from '../../static/images/wolf.jpg';
 import predictor from '../../static/images/predictor.jpg';
 import witch from '../../static/images/witch.jpg';
@@ -57,6 +58,9 @@ const RoleCard = (props) => {
 
   let src = null;
   switch(sit.role.key) {
+    case 'wolfofwolf':
+      src = wolfofwolf;
+      break;
     case 'wolf':
       src = wolf;
       break;
